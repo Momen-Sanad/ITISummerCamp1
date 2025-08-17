@@ -3712,7 +3712,7 @@ GameObject:
   - component: {fileID: 737868874}
   - component: {fileID: 737868875}
   - component: {fileID: 737868876}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: breakablePlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
